@@ -1,0 +1,16 @@
+# Environment variables - NE JAMAIS COMMITTER CE FICHIER
+.env
+.env.*
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
