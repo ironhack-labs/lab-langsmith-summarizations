@@ -1,0 +1,13 @@
+.venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+.pytest_cache/
